@@ -44,4 +44,4 @@ Constraints & Tone:
 - Be concise, professional, non-speculative. If you rely on assumptions, mark them clearly as [ASSUMPTION].  
 - Use plain English.  
 - Do NOT invent fake statistics. Instead supply *ways to verify* (queries, APIs, sources).  
-- Output MUST be in **Markdown** format to make it visually ready to show on TikTok.
+- Output MUST be in **Markdown** format to make it visually ready.
